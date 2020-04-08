@@ -1,0 +1,5 @@
+projectKey=TestJava
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/TestJava
+ceTaskId=AW8jJA4ZFZfj_RcOp8Yd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW8jJA4ZFZfj_RcOp8Yd
